@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteDataAccess\\BlogSiteDataAccess.csproj": {}
+    "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteDataAccess\\BlogSiteDataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj": {
+    "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj",
+        "projectUniqueName": "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj",
         "projectName": "BlogSiteCore",
-        "projectPath": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj",
+        "projectPath": "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj",
         "packagesPath": "C:\\Users\\FATOŞ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteCore\\obj\\",
+        "outputPath": "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FATOŞ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteDataAccess\\BlogSiteDataAccess.csproj": {
+    "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteDataAccess\\BlogSiteDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteDataAccess\\BlogSiteDataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteDataAccess\\BlogSiteDataAccess.csproj",
         "projectName": "BlogSiteDataAccess",
-        "projectPath": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteDataAccess\\BlogSiteDataAccess.csproj",
+        "projectPath": "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteDataAccess\\BlogSiteDataAccess.csproj",
         "packagesPath": "C:\\Users\\FATOŞ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteDataAccess\\obj\\",
+        "outputPath": "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FATOŞ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,11 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj": {
-                "projectPath": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj"
-              },
-              "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteEntity\\BlogSiteEntity.csproj": {
-                "projectPath": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteEntity\\BlogSiteEntity.csproj"
+              "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj": {
+                "projectPath": "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj"
               }
             }
           }
@@ -107,69 +104,27 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.17, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteEntity\\BlogSiteEntity.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteEntity\\BlogSiteEntity.csproj",
-        "projectName": "BlogSiteEntity",
-        "projectPath": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteEntity\\BlogSiteEntity.csproj",
-        "packagesPath": "C:\\Users\\FATOŞ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteEntity\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\FATOŞ\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj": {
-                "projectPath": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",

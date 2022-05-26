@@ -1,5 +1,11 @@
+using BlogSiteBusiness.Abstract;
+using BlogSiteBusiness.Concrete;
+using BlogSiteDataAccess.Concrete;
+using BlogSiteDataAccess.Repositories.Abstract;
+using BlogSiteDataAccess.Repositories.Concrete;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -23,6 +29,19 @@ namespace WebUI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddDbContext<Context>(a => a.UseSqlServer(Configuration.GetConnectionString("ConnectBlogDb")));
+
+            //services.AddDbContext<Context>();
+            services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));
+            services.AddScoped(typeof(IServices<>), typeof(Services<>));
+
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IUserService, UserService>();
+
+            services.AddScoped<IUserDetailRepository, UserDetailRepository>();
+            services.AddScoped<IUserDetailService, UserDetailService>();
+            //services.AddTransient<IUserService, UserService>();
+          
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

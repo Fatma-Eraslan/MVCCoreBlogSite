@@ -1,0 +1,11 @@
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteCore\bin\Debug\net5.0\BlogSiteCore.deps.json
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteCore\bin\Debug\net5.0\BlogSiteCore.dll
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteCore\bin\Debug\net5.0\ref\BlogSiteCore.dll
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteCore\bin\Debug\net5.0\BlogSiteCore.pdb
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteCore\obj\Debug\net5.0\BlogSiteCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteCore\obj\Debug\net5.0\BlogSiteCore.AssemblyInfoInputs.cache
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteCore\obj\Debug\net5.0\BlogSiteCore.AssemblyInfo.cs
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteCore\obj\Debug\net5.0\BlogSiteCore.csproj.CoreCompileInputs.cache
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteCore\obj\Debug\net5.0\BlogSiteCore.dll
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteCore\obj\Debug\net5.0\ref\BlogSiteCore.dll
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteCore\obj\Debug\net5.0\BlogSiteCore.pdb

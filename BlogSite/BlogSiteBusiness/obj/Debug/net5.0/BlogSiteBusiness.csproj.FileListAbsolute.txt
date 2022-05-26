@@ -1,0 +1,17 @@
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\bin\Debug\net5.0\BlogSiteBusiness.deps.json
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\bin\Debug\net5.0\BlogSiteBusiness.dll
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\bin\Debug\net5.0\ref\BlogSiteBusiness.dll
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\bin\Debug\net5.0\BlogSiteBusiness.pdb
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\bin\Debug\net5.0\BlogSiteCore.dll
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\bin\Debug\net5.0\BlogSiteDataAccess.dll
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\bin\Debug\net5.0\BlogSiteDataAccess.pdb
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\bin\Debug\net5.0\BlogSiteCore.pdb
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\obj\Debug\net5.0\BlogSiteBusiness.csproj.AssemblyReference.cache
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\obj\Debug\net5.0\BlogSiteBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\obj\Debug\net5.0\BlogSiteBusiness.AssemblyInfoInputs.cache
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\obj\Debug\net5.0\BlogSiteBusiness.AssemblyInfo.cs
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\obj\Debug\net5.0\BlogSiteBusiness.csproj.CoreCompileInputs.cache
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\obj\Debug\net5.0\BlogSiteBusiness.csproj.CopyComplete
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\obj\Debug\net5.0\BlogSiteBusiness.dll
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\obj\Debug\net5.0\ref\BlogSiteBusiness.dll
+C:\Users\FATOŞ\Desktop\BLOG\GitHub\BlogSite\BlogSiteBusiness\obj\Debug\net5.0\BlogSiteBusiness.pdb

@@ -550,11 +550,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteEntity\\BlogSiteEntity.csproj",
+      "projectUniqueName": "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteEntity\\BlogSiteEntity.csproj",
       "projectName": "BlogSiteEntity",
-      "projectPath": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteEntity\\BlogSiteEntity.csproj",
+      "projectPath": "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteEntity\\BlogSiteEntity.csproj",
       "packagesPath": "C:\\Users\\FATOŞ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteEntity\\obj\\",
+      "outputPath": "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteEntity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FATOŞ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -571,8 +571,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj": {
-              "projectPath": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj"
+            "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj": {
+              "projectPath": "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj"
             }
           }
         }

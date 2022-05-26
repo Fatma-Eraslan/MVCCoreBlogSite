@@ -1,0 +1,55 @@
+﻿@model UserWithUserDetailVM
+@{    
+    ViewData["Title"] = "Register";
+}
+
+<h1>Register</h1><hr />
+
+                 <div class="row">
+                     <div class="col-md-4">
+                         <form asp-action="Register" enctype="multipart/form-data" method="post">
+                             <div class="form-group">
+                                 <label asp-for="User.FirstName" class="control-label"></label>
+                                 <input asp-for="User.FirstName" class="form-control" required="required" />
+                             </div>
+                             <div class="form-group">
+                                 <label asp-for="User.LastName" class="control-label"></label>
+                                 <input asp-for="User.LastName" class="form-control" />
+                             </div>
+                             <div class="form-group">
+                                 <label asp-for="User.EMail" class="control-label"></label>
+                                 <input asp-for="User.EMail" class="form-control" />
+                                 <span asp-validation-for="User.EMail" class="text-danger"></span>
+                             </div>
+                             <div class="form-group">
+                                 <label asp-for="UserDetail.Username" class="control-label"></label>
+                                 <input asp-for="UserDetail.Username" class="form-control" />
+                             </div>
+                             <div class="form-group">
+                                 <label asp-for="UserDetail.Explanation" class="control-label"></label>
+                                 <input asp-for="UserDetail.Explanation" class="form-control" />
+                             </div>
+                             <div class="form-group">
+                                 <label asp-for="UserDetail.BirthDate" class="control-label"></label>
+                                 <input asp-for="UserDetail.BirthDate" class="form-control" />
+                             </div>
+                             <div class="form-group">
+                                 <label asp-for="UserDetail.Job" class="control-label"></label>
+                                 <input asp-for="UserDetail.Job" class="form-control" />
+                             </div>
+                             <div class="form-group">
+                                 <label asp-for="UserDetail.Gender" class="control-label"></label>
+                                 <input asp-for="UserDetail.Gender" class="form-control" />
+                             </div>
+                             <div class="form-group">
+                                 <label asp-for="User.Password" class="control-label"></label>
+                                 <input asp-for="User.Password" class="form-control" />
+                                 <span asp-validation-for="User.Password" class="text-danger"></span>
+                             </div>
+
+                             <div class="form-group">
+                                 <input type="submit" value="Create" class="btn btn-primary" />
+                             </div>
+                         </form>
+                     </div>
+                 </div>

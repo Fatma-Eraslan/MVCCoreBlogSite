@@ -532,11 +532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj",
+      "projectUniqueName": "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj",
       "projectName": "BlogSiteCore",
-      "projectPath": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj",
+      "projectPath": "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteCore\\BlogSiteCore.csproj",
       "packagesPath": "C:\\Users\\FATOŞ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FATOŞ\\Desktop\\BlogSite\\BlogSiteCore\\obj\\",
+      "outputPath": "C:\\Users\\FATOŞ\\Desktop\\BLOG\\GitHub\\BlogSite\\BlogSiteCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FATOŞ\\AppData\\Roaming\\NuGet\\NuGet.Config",
